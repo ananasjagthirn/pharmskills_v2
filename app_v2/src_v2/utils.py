@@ -316,7 +316,7 @@ def run_page(titel: str, kategorie_inds: set, page_key: str):
         st.caption("Zeile anklicken, um die Details zum Präparat anzuzeigen.")
 
     st.divider()
-    st.caption('''© 2025 · Tanjana Harings · Lehrtool für das Praktikum „Übungsapotheke"''')
+    st.caption('''© 2026 · Tanjana Harings · Lehrtool für das Praktikum „Übungsapotheke"''')
 
     with st.expander("Über diese App"):
         st.caption('''Diese webbasierte Beratungshilfe wurde als Lehr- und Übungstool für das Praktikum "Übungsapotheke" im Studiengang Pharmazie an der Universität Leipzig entwickelt.''')
