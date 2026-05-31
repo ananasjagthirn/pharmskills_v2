@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtuelle Umgebung
+.venv_streamlit/
+venv/
+.env
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
